@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/author-EduardoJansen-red.svg)](https://www.linkedin.com/in/eduardo-jansen-b18289165/) [![](https://img.shields.io/badge/python-3.9.1+-blue.svg)](https://www.python.org/downloads/release/python-391/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/ducajansen/home)
+[![author](https://img.shields.io/badge/author-EduardoJansen-red.svg)](https://www.linkedin.com/in/eduardo-jansen-b18289165/) [![](https://img.shields.io/badge/python-3.9.1+-blue.svg)](https://www.python.org/downloads/release/python-391/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/ducajansen/home/issues)
 
 <p align="center">
   <img src="banner.png" >
