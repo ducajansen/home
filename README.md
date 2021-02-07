@@ -7,7 +7,7 @@
 # Eduardo Jansen
 <sub>*Cientista de Dados* na Caixa Econômica Federal</sub>
 
-Com amplo conhecimento em estatística e em programação, tenho atuado desde 2013 na área de Ciência de Dados e de CRM da Caixa Econômica Federal contribuindo com a geração de insights para as tomadas de decisão e com a identificação de oportunidades de negócios no âmbito das estratégias e da gestão do relacionamento com os clientes da empresa.
+Com amplo conhecimento em estatística e em programação, tenho atuado desde 2013 na área de Ciência de Dados e de CRM da Caixa Econômica Federal contribuindo com a geração de insights para as tomadas de decisão e com a identificação de oportunidades de negócios no âmbito das estratégias e da gestão do relacionamento com clientes.
 
 **Background in:** SQL, Python, Machine Learning, Análise de Dados e Aplicação de Modelos Estatísticos na Estratégia de Clientes do Setor Bancário/Financeiro.
 
